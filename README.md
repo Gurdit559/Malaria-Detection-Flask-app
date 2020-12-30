@@ -9,5 +9,4 @@ First Webpage:
 
 Model Demo:
 
-![finm22](https://user-images.githubusercontent.com/22385974/103336138-2cfc8680-4a9d-11eb-9a6f-f56329896ac6.gif)
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/22385974/103336348-e8bdb600-4a9d-11eb-9c8b-ff60382186aa.gif)
